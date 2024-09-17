@@ -1,0 +1,4 @@
+paramiko
+msoffcrypto-tool
+pyzipper
+PyPDF2
